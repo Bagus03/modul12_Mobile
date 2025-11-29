@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121298934600",
+    "project_id": "modul-12-40bad",
+    "storage_bucket": "modul-12-40bad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121298934600:android:13a20d143a5b053e84717d",
+        "android_client_info": {
+          "package_name": "com.example.mod12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHN6Kvib3VWyIDTG4xSdxmaJjh_sftwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
